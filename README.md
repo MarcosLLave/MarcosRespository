@@ -1,2 +1,1 @@
-# MarcosRespository
-Este es un repositorio de prueba
+Este es una prueba de como crear un repositorio.
